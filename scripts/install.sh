@@ -34,6 +34,8 @@ pip install nvidia-ml-py3==7.352.0
 pip install dlib
 pip install imutils
 pip install pyglet trimesh
+pip install scikit-learn
+pip install pytz
 
 cd imaginaire/third_party/correlation;
 rm -rf build dist *info;
